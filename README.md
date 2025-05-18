@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Shobhit Bansal
 
-<!--
-**ShobhitB2002/ShobhitB2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an iOS Developer with one year of hands-on experience building and maintaining production-level apps using Swift, UIKit, MVVM, and Core Data.
 
-Here are some ideas to get you started:
+I specialize in creating clean, scalable, and user-focused mobile apps. I’ve worked on real products for brands like Kodak and Polaroid, and contributed to features like AR video, Bluetooth device syncing, and offline storage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+- Swift, UIKit, SwiftUI (learning)
+- Core Data, MVVM
+- REST APIs, Firebase, BLE
+- Xcode, Git, SourceTree, Asana
+
+🌍 Connect with me
+[LinkedIn](https://www.linkedin.com/in/shobhitbansal2002)
