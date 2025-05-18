@@ -12,4 +12,4 @@ I specialize in creating clean, scalable, and user-focused mobile apps. I have w
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/shobhitbansal2002)  
-- Portfolio: [https://shobhitbansal2002.vercel.app/](https://shobhitbansal2002.vercel.app/)
+- [Portfolio](https://shobhitbansal2002.vercel.app/)
