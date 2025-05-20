@@ -1,6 +1,6 @@
 # Hi, I'm Shobhit Bansal
 
-I am an iOS Developer with one year of hands-on experience building and maintaining production-level apps using Swift, UIKit, MVVM, and Core Data.
+I am an iOS Developer with around 2 years of hands-on experience building and maintaining production-level apps using Swift, UIKit, MVVM, and Core Data.
 
 I specialize in creating clean, scalable, and user-focused mobile apps. I have worked on real products for brands like Kodak and Polaroid, contributing to features such as AR video, Bluetooth device syncing, and offline storage.
 
